@@ -28,6 +28,13 @@ assignments and projects of advanced optimization course
 ## interior point method
 
 
+## Final Project
+
+## Implementation of A descent Dai-Liao conjugate gradient method for nonlinear equations
+
+[1] Abubakar, A.B. and Kumam, P., 2019. A descent Dai-Liao conjugate gradient method for nonlinear equations. Numerical Algorithms, 81(1), pp.197-210.
+
+
 
 
 
